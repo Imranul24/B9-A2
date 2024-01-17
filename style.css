@@ -37,3 +37,12 @@
 .nav-manu-color2{
   color: #424247;
 }
+/* banner section styles */
+.banner-section {
+max-width: 1170;
+margin: 0 auto;
+/* background-color: #FF5400; */
+border: 2px solid blue;
+min-height: 400px;
+
+}
